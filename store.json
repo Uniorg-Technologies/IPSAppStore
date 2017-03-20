@@ -6,7 +6,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Uniorg-Technologies/IPSAppStore/master/TestApp/icon.png",
       "version": "1.0",
       "build": "1",
-      "manifest": "https://raw.githubusercontent.com/Uniorg-Technologies/IPSAppStore/master/TestApp/manifest-1.0.1.plist",
+      "manifest": "https://raw.githubusercontent.com/Uniorg-Technologies/IPSAppStore/master/TestApp/manifest-1.0.plist",
       "urlScheme": "IPSDemo",
       "namespace": "com.sap.uniorg.ips.demoApp",
       "trackId": 376771144,
