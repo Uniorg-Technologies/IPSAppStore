@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "title": "Test App",
+      "file": "../demoApp.ipa",
+      "imageUrl": ".../icon.png",
+      "version": "1.0",
+      "build": "1",
+      "manifest": "../manifest-1.0.1.plist",
+      "urlScheme": "IPSDemo",
+      "namespace": "com.sap.uniorg.ips.demoApp",
+      "trackId": 376771144,
+      "releaseDate": "2010-06-10T15:19:00Z",
+      "minimumOsVersion": "9.0"
+    }
+  ]
+}
