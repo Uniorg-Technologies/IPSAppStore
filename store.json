@@ -1,7 +1,7 @@
 {
   "results": [
     {
-      "title": "App",
+      "title": "IPS App",
       "file": "https://raw.githubusercontent.com/Uniorg-Technologies/IPSAppStore/master/TestApp/demoApp.ipa",
       "imageUrl": "https://raw.githubusercontent.com/Uniorg-Technologies/IPSAppStore/master/TestApp/icon.png",
       "version": "1.0",
